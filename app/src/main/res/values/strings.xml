@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CleanArchitectureLogin</string>
+
+    <!-- Login Error Messages -->
+    <string name="login_email_not_found">Email not found</string>
+    <string name="login_invalid_password">Invalid password</string>
+
+    <!-- Signup Error Messages -->
+    <string name="signup_password_no_match">Passwords do not match</string>
+    <string name="signup_email_already_used">Email is already used</string>
+    <string name="unknown_error">An error has occurred. Try Again</string>
+    <string name="signup_password_not_have_numbers">Password must have at least one number</string>
+
+    <!-- common base form messages -->
+    <string name="form_email_not_valid">Email not valid</string>
+    <string name="form_password_too_short">Password must have at least 8 characters</string>
+    <string name="sign_up_success">User registered successfully</string>
+
+    <!-- common messages -->
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="mail">Email</string>
+    <string name="password">Password</string>
+    <string name="Or">Or</string>
+    <string name="next">Next ➜</string>
+    <string name="name">Name</string>
+    <string name="genre">Genre</string>
+    <string name="age">Age</string>
+    <string name="name_empty">Name must not be empty</string>
+    <string name="incorrect_name">Enter a correct name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="error_age">Only numbers are allowed</string>
+    <string name="age_empty">Age must not be empty</string>
+    <string name="password_confirmation">confirm your password</string>
+</resources>
